@@ -14,7 +14,7 @@ sources:
   - https://github.com/kubernetes/ingress-nginx
 type: application
 maintainers:
-  - name: ChiefAlexander
+  - name: bhagyasri
 engine: gotpl
 kubeVersion: ">=1.19.0-0"
 annotations:
